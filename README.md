@@ -1,2 +1,12 @@
-# Komala
-Final year BSc Computer Science student passionate about programming, learning new technologies, and building projects. This profile showcases my skills, projects, and achievements
+# My First Project
+
+Hi, I’m Komala 👋  
+BSc Computer Science Final Year Student  
+
+## Skills
+- C Programming
+- Python
+- Basics of Java
+
+## Projects
+- Student Management System
