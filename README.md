@@ -1,12 +1,28 @@
-# My First Project
+# Hi, I'm Komala 👋
 
-Hi, I’m Komala 👋  
-BSc Computer Science Final Year Student  
+🎓 BSc Computer Science Final Year Student  
+💻 Passionate about Programming & Technology  
 
-## Skills
+---
+
+## 🚀 Skills
 - C Programming
 - Python
-- Basics of Java
+- Java (Basics)
+- HTML & CSS
 
-## Projects
-- Student Management System
+---
+
+## 📂 Projects
+- 📌 Student Management System
+- 📌 Library Management System
+- 📌 Calculator App
+
+---
+
+## 📫 Contact Me
+📧 Email: komalabalakrishna10@gmail.com  
+
+---
+
+⭐ Always learning new technologies and improving my skills!
